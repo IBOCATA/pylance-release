@@ -65,3 +65,5 @@ This doc details all available rules that can be customized using the `python.an
 | reportUnusedExpression | Diagnostics for simple expressions whose results are not used in any way. The default value for this setting is 'none'. |
 | reportUnnecessaryTypeIgnoreComment | Diagnostics for a '# type: ignore' comment that would have no effect if removed. |
 | reportMatchNotExhaustive | Diagnostics for a 'match' statement that does not provide cases that exhaustively match against all potential types of the target expression. |
+| reportUndefinedVariable	 | Diagnostics for undefined variables."exp" "pi" "sqrt |
+
